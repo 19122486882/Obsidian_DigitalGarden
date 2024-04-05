@@ -19,3 +19,20 @@
 >>[!blank]
 >>#password 
 >>- passwords 
+>
+>>[!blank]
+>>#SecondBrain
+>>- 第二大脑
+>
+>>[!blank]
+>>#AI 
+>
+>>[!blank]
+>>#prompt
+>
+>>[!blank]
+>>#Regulation
+>
+
+
+
